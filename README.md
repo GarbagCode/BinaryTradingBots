@@ -64,6 +64,8 @@ This is a classification problem rather than regression — focused purely on di
 This project is for educational purposes only.  
 Cryptocurrency trading involves substantial risk and is not financial advice.
 
+---
+
 ## ❤️ Support the Project
 
 If you find this useful and want to support continued development:
