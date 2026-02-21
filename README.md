@@ -7,7 +7,6 @@ The bot analyzes historical **BTC/USD** price data with technical indicators to 
 
 ## 🚀 Features
 
-- ⏱ Time-series aggregation for multiple timeframes (1-min to 30-min candles)
 - 📊 Technical indicators:
   - SMA (Simple Moving Average)
   - RSI (Relative Strength Index)
